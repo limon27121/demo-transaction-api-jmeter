@@ -14,14 +14,8 @@ This repository contains a JMeter test plan (`demo-transaction-api.jmx`) to perf
 - Java JDK installed.
 - Clone this repository.
 
-## Structure
-```plaintext
-.
-├── demo-transaction-api.jmx
-└── README.md
 
-
-# Testing Report Picture
+## Testing Report Picture
 <img src="report.png" alt=" Testing report Screenshot" width="900">
 
   
