@@ -1,4 +1,4 @@
-<img width="734" alt="report" src="https://github.com/limon27121/demo-transaction-api-jmeter/assets/90955039/a1b443f4-5104-4023-a94b-a1a587c8f83a"># Demo Transaction API JMeter Test Plan
+# Demo Transaction API JMeter Test Plan
 
 ## Overview
 This repository contains a JMeter test plan (`demo-transaction-api.jmx`) to perform a series of transactions and operations on a financial API. The test plan includes:
